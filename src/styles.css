@@ -1,0 +1,37 @@
+body {
+  background-color: green;
+}
+.card {
+  background: white;
+  margin: auto;
+  width: 400px;
+  height: 435px;
+  border-radius: 8px;
+}
+#number {
+  text-align: center;
+  margin-top: 40%;
+  font-size: 50px;
+  color: black;
+}
+#sign {
+  font-size: 50px;
+}
+#rotator {
+  float: right;
+  margin-left: auto;
+  font-size: 50px;
+  transform: rotate(180deg);
+}
+.spade {
+  color: black;
+}
+.clover {
+  color: black;
+}
+.heart {
+  color: red;
+}
+.diamond {
+  color: red;
+}
